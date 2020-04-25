@@ -8,7 +8,7 @@ import {HttpClient} from '@angular/common/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-httpclient-example';
+  title = 'quote-and-tip';
 
 
   response2: any;
